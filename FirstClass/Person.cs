@@ -12,22 +12,22 @@ namespace FirstClass
         private string surname;
         private DateTime birthDate;
 
-        public string Name
+        public string Name  //property
         {
-            get { return name; }
-            set { name = value; }
+            get { return name; } //getter
+            set { name = value; } //setter
         }
 
-        public string Surname
+        public string Surname //property
         {
-            get { return surname; }
-            set { surname = value; }
+            get { return surname; } //getter
+            set { surname = value; } //setter
         }
 
-        public DateTime BirthDate
+        public DateTime BirthDate //property
         {
-            get { return birthDate; }
-            set { birthDate = value; }
+            get { return birthDate; } //getter
+            set { birthDate = value; } //setter
         }
     }
 }

@@ -4,15 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Person ogretmen1 = new Person();
+            Person ogretmen1 = new Person();//instance
 
-            ogretmen1.Name = "Babuşka";
-            ogretmen1.Surname = "Babuşkova";
-            ogretmen1.BirthDate = new DateTime(1938, 10, 10);
+            ogretmen1.Name = "Babuşka";//property
+            ogretmen1.Surname = "Babuşkova";//property
+            ogretmen1.BirthDate = new DateTime(1938, 10, 10);//property
 
-            Console.WriteLine(ogretmen1.Name);
-            Console.WriteLine(ogretmen1.Surname);
-            Console.WriteLine(ogretmen1.BirthDate.ToString());
+            Console.WriteLine(ogretmen1.Name); //getter
+            Console.WriteLine(ogretmen1.Surname); //getter
+            Console.WriteLine(ogretmen1.BirthDate.ToString()); //getter
 
             Person ogrenci1 = new Person();
 
