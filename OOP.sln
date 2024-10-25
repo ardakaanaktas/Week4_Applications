@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstClass", "FirstClass\FirstClass.csproj", "{5D24E8B6-A29C-4FB7-BDB5-68695A41F2CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{1762FEC2-0D93-4FE9-B293-62A108BF9C2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{1762FEC2-0D93-4FE9-B293-62A108BF9C2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticMethods", "StaticMethods\StaticMethods.csproj", "{0996B488-28A7-4B5A-8FB1-D8D00E070B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaKutuphane", "PatikaKutuphane\PatikaKutuphane.csproj", "{2833A4A5-8E95-44EF-BA5A-9B695076A3BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{1762FEC2-0D93-4FE9-B293-62A108BF9C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1762FEC2-0D93-4FE9-B293-62A108BF9C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1762FEC2-0D93-4FE9-B293-62A108BF9C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0996B488-28A7-4B5A-8FB1-D8D00E070B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0996B488-28A7-4B5A-8FB1-D8D00E070B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0996B488-28A7-4B5A-8FB1-D8D00E070B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0996B488-28A7-4B5A-8FB1-D8D00E070B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2833A4A5-8E95-44EF-BA5A-9B695076A3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2833A4A5-8E95-44EF-BA5A-9B695076A3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2833A4A5-8E95-44EF-BA5A-9B695076A3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2833A4A5-8E95-44EF-BA5A-9B695076A3BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
