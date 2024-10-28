@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticMethods", "StaticMethods\StaticMethods.csproj", "{0996B488-28A7-4B5A-8FB1-D8D00E070B8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaKutuphane", "PatikaKutuphane\PatikaKutuphane.csproj", "{2833A4A5-8E95-44EF-BA5A-9B695076A3BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatikaKutuphane", "PatikaKutuphane\PatikaKutuphane.csproj", "{2833A4A5-8E95-44EF-BA5A-9B695076A3BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{06D372E5-32DA-41C9-95B5-AB5528151DCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{06D372E5-32DA-41C9-95B5-AB5528151DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{74DD809D-04E5-46AE-BEFE-8CAD9DF6B752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{06D372E5-32DA-41C9-95B5-AB5528151DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06D372E5-32DA-41C9-95B5-AB5528151DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06D372E5-32DA-41C9-95B5-AB5528151DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DD809D-04E5-46AE-BEFE-8CAD9DF6B752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DD809D-04E5-46AE-BEFE-8CAD9DF6B752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DD809D-04E5-46AE-BEFE-8CAD9DF6B752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DD809D-04E5-46AE-BEFE-8CAD9DF6B752}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
